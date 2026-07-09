@@ -1,0 +1,17 @@
+{
+  "type": "tfc:anvil",
+  "result": {
+    "id": "tfchammer:metal/sledgehammer_head/wrought_iron",
+    "count": 1
+  },
+  "tier": 3,
+  "rules": [
+    "punch_last",
+    "upset_second_last",
+    "upset_third_last"
+  ],
+  "ingredient": {
+    "tag": "c:double_ingots/wrought_iron"
+  },
+  "apply_bonus": true
+}

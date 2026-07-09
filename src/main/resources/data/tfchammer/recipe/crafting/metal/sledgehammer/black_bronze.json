@@ -1,0 +1,30 @@
+{
+  "type": "tfc:advanced_shaped_crafting",
+  "pattern": [
+    "  X",
+    " Y ",
+    "Z  "
+  ],
+  "key": {
+    "X": {
+      "item": "tfchammer:metal/sledgehammer_head/black_bronze"
+    },
+    "Y": {
+      "item": "tfc:metal/rod/black_bronze"
+    },
+    "Z": {
+      "tag": "c:rods/wooden"
+    }
+  },
+  "result": {
+    "stack": {
+      "id": "tfchammer:metal/sledgehammer/black_bronze",
+      "count": 1
+    },
+    "modifiers": [
+      {
+        "type": "tfc:copy_forging_bonus"
+      }
+    ]
+  }
+}

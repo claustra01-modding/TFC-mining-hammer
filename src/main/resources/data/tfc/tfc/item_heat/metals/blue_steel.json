@@ -1,0 +1,19 @@
+{
+  "ingredient": [
+    {
+      "item": "tfchammer:metal/excavator/blue_steel"
+    },
+    {
+      "item": "tfchammer:metal/sledgehammer/blue_steel"
+    },
+    {
+      "item": "tfchammer:metal/excavator_head/blue_steel"
+    },
+    {
+      "item": "tfchammer:metal/sledgehammer_head/blue_steel"
+    }
+  ],
+  "heat_capacity": 5.714286,
+  "forging_temperature": 924.0,
+  "welding_temperature": 1232.0
+}

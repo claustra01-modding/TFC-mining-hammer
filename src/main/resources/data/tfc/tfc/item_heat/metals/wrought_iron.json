@@ -1,0 +1,19 @@
+{
+  "ingredient": [
+    {
+      "item": "tfchammer:metal/excavator/wrought_iron"
+    },
+    {
+      "item": "tfchammer:metal/sledgehammer/wrought_iron"
+    },
+    {
+      "item": "tfchammer:metal/excavator_head/wrought_iron"
+    },
+    {
+      "item": "tfchammer:metal/sledgehammer_head/wrought_iron"
+    }
+  ],
+  "heat_capacity": 5.714286,
+  "forging_temperature": 921.0,
+  "welding_temperature": 1228.0
+}

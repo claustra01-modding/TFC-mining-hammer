@@ -1,0 +1,30 @@
+{
+  "type": "tfc:advanced_shaped_crafting",
+  "pattern": [
+    "  X",
+    " Y ",
+    "Z  "
+  ],
+  "key": {
+    "X": {
+      "item": "tfchammer:metal/excavator_head/bismuth_bronze"
+    },
+    "Y": {
+      "item": "tfc:metal/rod/bismuth_bronze"
+    },
+    "Z": {
+      "tag": "c:rods/wooden"
+    }
+  },
+  "result": {
+    "stack": {
+      "id": "tfchammer:metal/excavator/bismuth_bronze",
+      "count": 1
+    },
+    "modifiers": [
+      {
+        "type": "tfc:copy_forging_bonus"
+      }
+    ]
+  }
+}

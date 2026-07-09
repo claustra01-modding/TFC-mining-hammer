@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "tfchammer:metal/excavator_head/copper",
+    "tfchammer:metal/excavator_head/bronze",
+    "tfchammer:metal/excavator_head/bismuth_bronze",
+    "tfchammer:metal/excavator_head/black_bronze",
+    "tfchammer:metal/excavator_head/wrought_iron",
+    "tfchammer:metal/excavator_head/steel",
+    "tfchammer:metal/excavator_head/black_steel",
+    "tfchammer:metal/excavator_head/blue_steel",
+    "tfchammer:metal/excavator_head/red_steel"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "ingredient": [
+    {
+      "item": "tfchammer:metal/excavator/black_steel"
+    },
+    {
+      "item": "tfchammer:metal/sledgehammer/black_steel"
+    },
+    {
+      "item": "tfchammer:metal/excavator_head/black_steel"
+    },
+    {
+      "item": "tfchammer:metal/sledgehammer_head/black_steel"
+    }
+  ],
+  "heat_capacity": 5.714286,
+  "forging_temperature": 891.0,
+  "welding_temperature": 1188.0
+}

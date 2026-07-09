@@ -1,0 +1,8 @@
+{
+  "loader":"tfc:fluid_container",
+  "parent": "neoforge:item/default",
+  "textures": {
+    "base": "tfchammer:item/sledgehammer_head_empty",
+    "fluid": "tfchammer:item/sledgehammer_head_overlay"
+  }
+}

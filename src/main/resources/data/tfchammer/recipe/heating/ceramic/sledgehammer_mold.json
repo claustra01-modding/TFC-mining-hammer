@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfchammer:ceramic/unfired_sledgehammer_head_mold"
+  },
+  "result_item": {
+    "id": "tfchammer:ceramic/sledgehammer_head_mold",
+    "count": 1
+  },
+  "temperature": 1399
+}

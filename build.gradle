@@ -27,7 +27,12 @@ sourceSets.main.resources {
 }
 
 repositories {
-    // Add here additional repositories if required by some of the dependencies below.
+    maven {
+        url = 'https://www.cursemaven.com'
+        content {
+            includeGroup 'curse.maven'
+        }
+    }
 }
 
 base {
@@ -118,6 +123,9 @@ configurations {
 }
 
 dependencies {
+    implementation "curse.maven:terrafirmacraft-302973:${tfc_file_id}"
+    localRuntime "curse.maven:patchouli-306770:${patchouli_file_id}"
+
     // Example optional mod dependency with JEI
     // The JEI API is declared for compile time use, while the full JEI artifact is used at runtime
     // compileOnly "mezz.jei:jei-${mc_version}-common-api:${jei_version}"
@@ -153,6 +161,9 @@ var generateModMetadata = tasks.register("generateModMetadata", ProcessResources
             mod_name               : mod_name,
             mod_license            : mod_license,
             mod_version            : mod_version,
+            mod_authors            : mod_authors,
+            mod_description        : mod_description,
+            tfc_version_range      : tfc_version_range,
     ]
     inputs.properties replaceProperties
     expand replaceProperties

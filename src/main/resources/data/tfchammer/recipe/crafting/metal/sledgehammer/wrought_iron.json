@@ -1,0 +1,30 @@
+{
+  "type": "tfc:advanced_shaped_crafting",
+  "pattern": [
+    "  X",
+    " Y ",
+    "Z  "
+  ],
+  "key": {
+    "X": {
+      "item": "tfchammer:metal/sledgehammer_head/wrought_iron"
+    },
+    "Y": {
+      "item": "tfc:metal/rod/wrought_iron"
+    },
+    "Z": {
+      "tag": "c:rods/wooden"
+    }
+  },
+  "result": {
+    "stack": {
+      "id": "tfchammer:metal/sledgehammer/wrought_iron",
+      "count": 1
+    },
+    "modifiers": [
+      {
+        "type": "tfc:copy_forging_bonus"
+      }
+    ]
+  }
+}

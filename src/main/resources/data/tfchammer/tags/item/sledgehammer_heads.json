@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "tfchammer:metal/sledgehammer_head/copper",
+    "tfchammer:metal/sledgehammer_head/bronze",
+    "tfchammer:metal/sledgehammer_head/bismuth_bronze",
+    "tfchammer:metal/sledgehammer_head/black_bronze",
+    "tfchammer:metal/sledgehammer_head/wrought_iron",
+    "tfchammer:metal/sledgehammer_head/steel",
+    "tfchammer:metal/sledgehammer_head/black_steel",
+    "tfchammer:metal/sledgehammer_head/blue_steel",
+    "tfchammer:metal/sledgehammer_head/red_steel"
+  ]
+}

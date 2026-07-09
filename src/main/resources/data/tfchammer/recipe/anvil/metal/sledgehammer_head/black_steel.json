@@ -1,0 +1,17 @@
+{
+  "type": "tfc:anvil",
+  "result": {
+    "id": "tfchammer:metal/sledgehammer_head/black_steel",
+    "count": 1
+  },
+  "tier": 5,
+  "rules": [
+    "punch_last",
+    "upset_second_last",
+    "upset_third_last"
+  ],
+  "ingredient": {
+    "tag": "c:double_ingots/black_steel"
+  },
+  "apply_bonus": true
+}

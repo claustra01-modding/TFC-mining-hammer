@@ -1,0 +1,19 @@
+{
+  "ingredient": [
+    {
+      "item": "tfchammer:metal/excavator/bismuth_bronze"
+    },
+    {
+      "item": "tfchammer:metal/excavator_head/bismuth_bronze"
+    },
+    {
+      "item": "tfchammer:metal/sledgehammer/bismuth_bronze"
+    },
+    {
+      "item": "tfchammer:metal/sledgehammer_head/bismuth_bronze"
+    }
+  ],
+  "heat_capacity": 5.714286,
+  "forging_temperature": 591.0,
+  "welding_temperature": 788.0
+}

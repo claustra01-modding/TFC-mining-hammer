@@ -1,0 +1,17 @@
+{
+  "type": "tfc:anvil",
+  "result": {
+    "id": "tfchammer:metal/sledgehammer_head/bronze",
+    "count": 1
+  },
+  "tier": 2,
+  "rules": [
+    "punch_last",
+    "upset_second_last",
+    "upset_third_last"
+  ],
+  "ingredient": {
+    "tag": "c:double_ingots/bronze"
+  },
+  "apply_bonus": true
+}

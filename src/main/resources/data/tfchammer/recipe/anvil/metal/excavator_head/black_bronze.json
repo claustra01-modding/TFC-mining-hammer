@@ -1,0 +1,17 @@
+{
+  "type": "tfc:anvil",
+  "result": {
+    "id": "tfchammer:metal/excavator_head/black_bronze",
+    "count": 1
+  },
+  "tier": 2,
+  "rules": [
+    "bend_last",
+    "upset_second_last",
+    "draw_third_last"
+  ],
+  "ingredient": {
+    "tag": "c:sheets/black_bronze"
+  },
+  "apply_bonus": true
+}

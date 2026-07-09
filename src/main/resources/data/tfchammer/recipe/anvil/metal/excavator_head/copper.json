@@ -1,0 +1,17 @@
+{
+  "type": "tfc:anvil",
+  "result": {
+    "id": "tfchammer:metal/excavator_head/copper",
+    "count": 1
+  },
+  "tier": 1,
+  "rules": [
+    "bend_last",
+    "upset_second_last",
+    "draw_third_last"
+  ],
+  "ingredient": {
+    "tag": "c:sheets/copper"
+  },
+  "apply_bonus": true
+}
