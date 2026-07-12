@@ -1,28 +1,34 @@
 {
   "neoforge:conditions": [
     {
-      "type": "neoforge:not",
-      "value": {
-        "type": "neoforge:mod_loaded",
-        "modid": "tfc_metal_tools"
-      }
+      "type": "neoforge:mod_loaded",
+      "modid": "tfc_metal_tools"
     }
   ],
   "type": "tfc:advanced_shaped_crafting",
   "pattern": [
-    "  X",
-    " Y ",
-    "Z  "
+    " NX",
+    "GHR",
+    "RL "
   ],
   "key": {
+    "N": {
+      "tag": "c:rivets/wrought_iron"
+    },
     "X": {
       "item": "tfchammer:metal/sledgehammer_head/wrought_iron"
     },
-    "Y": {
-      "item": "tfc:metal/rod/wrought_iron"
+    "G": {
+      "tag": "c:glue"
     },
-    "Z": {
-      "tag": "c:rods/wooden"
+    "H": {
+      "tag": "c:handle/long"
+    },
+    "R": {
+      "tag": "c:rings/wrought_iron"
+    },
+    "L": {
+      "tag": "c:leather/string"
     }
   },
   "result": {

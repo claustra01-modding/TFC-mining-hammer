@@ -1,28 +1,34 @@
 {
   "neoforge:conditions": [
     {
-      "type": "neoforge:not",
-      "value": {
-        "type": "neoforge:mod_loaded",
-        "modid": "tfc_metal_tools"
-      }
+      "type": "neoforge:mod_loaded",
+      "modid": "tfc_metal_tools"
     }
   ],
   "type": "tfc:advanced_shaped_crafting",
   "pattern": [
-    "  X",
-    " Y ",
-    "Z  "
+    " NX",
+    "GHR",
+    "RL "
   ],
   "key": {
+    "N": {
+      "tag": "c:rivets/black_steel"
+    },
     "X": {
       "item": "tfchammer:metal/excavator_head/black_steel"
     },
-    "Y": {
-      "item": "tfc:metal/rod/black_steel"
+    "G": {
+      "tag": "c:glue"
     },
-    "Z": {
-      "tag": "c:rods/wooden"
+    "H": {
+      "tag": "c:handle/long"
+    },
+    "R": {
+      "tag": "c:rings/black_steel"
+    },
+    "L": {
+      "tag": "c:leather/strip"
     }
   },
   "result": {

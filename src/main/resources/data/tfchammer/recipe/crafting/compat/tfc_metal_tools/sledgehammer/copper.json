@@ -1,28 +1,27 @@
 {
   "neoforge:conditions": [
     {
-      "type": "neoforge:not",
-      "value": {
-        "type": "neoforge:mod_loaded",
-        "modid": "tfc_metal_tools"
-      }
+      "type": "neoforge:mod_loaded",
+      "modid": "tfc_metal_tools"
     }
   ],
   "type": "tfc:advanced_shaped_crafting",
   "pattern": [
-    "  X",
-    " Y ",
-    "Z  "
+    "NX",
+    "HG"
   ],
   "key": {
+    "N": {
+      "tag": "c:rivets/copper"
+    },
     "X": {
       "item": "tfchammer:metal/sledgehammer_head/copper"
     },
-    "Y": {
-      "item": "tfc:metal/rod/copper"
+    "G": {
+      "tag": "c:glue"
     },
-    "Z": {
-      "tag": "c:rods/wooden"
+    "H": {
+      "tag": "c:handle/long"
     }
   },
   "result": {
