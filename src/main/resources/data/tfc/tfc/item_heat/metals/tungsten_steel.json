@@ -1,0 +1,25 @@
+{
+  "ingredient": [
+    {
+      "item": "tfchammer:metal/excavator/tungsten_steel"
+    },
+    {
+      "item": "tfchammer:metal/sledgehammer/tungsten_steel"
+    },
+    {
+      "item": "tfchammer:metal/excavator_head/tungsten_steel"
+    },
+    {
+      "item": "tfchammer:metal/sledgehammer_head/tungsten_steel"
+    }
+  ],
+  "heat_capacity": 10.0,
+  "forging_temperature": 921,
+  "welding_temperature": 1228,
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tfcm"
+    }
+  ]
+}

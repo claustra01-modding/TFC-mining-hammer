@@ -1,0 +1,25 @@
+{
+  "ingredient": [
+    {
+      "item": "tfchammer:metal/excavator/invar"
+    },
+    {
+      "item": "tfchammer:metal/sledgehammer/invar"
+    },
+    {
+      "item": "tfchammer:metal/excavator_head/invar"
+    },
+    {
+      "item": "tfchammer:metal/sledgehammer_head/invar"
+    }
+  ],
+  "heat_capacity": 5.714286,
+  "forging_temperature": 870,
+  "welding_temperature": 1160,
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tfcm"
+    }
+  ]
+}

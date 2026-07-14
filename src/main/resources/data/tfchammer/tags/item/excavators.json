@@ -9,6 +9,18 @@
     "tfchammer:metal/excavator/steel",
     "tfchammer:metal/excavator/black_steel",
     "tfchammer:metal/excavator/blue_steel",
-    "tfchammer:metal/excavator/red_steel"
+    "tfchammer:metal/excavator/red_steel",
+    {
+      "id": "tfchammer:metal/excavator/invar",
+      "required": false
+    },
+    {
+      "id": "tfchammer:metal/excavator/titanium",
+      "required": false
+    },
+    {
+      "id": "tfchammer:metal/excavator/tungsten_steel",
+      "required": false
+    }
   ]
 }

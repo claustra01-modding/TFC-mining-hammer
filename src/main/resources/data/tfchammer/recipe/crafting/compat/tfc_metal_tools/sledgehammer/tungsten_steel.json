@@ -1,0 +1,49 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tfcm"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tfc_metal_tools"
+    }
+  ],
+  "type": "tfc:advanced_shaped_crafting",
+  "pattern": [
+    " NX",
+    "GHR",
+    "RL "
+  ],
+  "key": {
+    "N": {
+      "tag": "c:rivets/tungsten_steel"
+    },
+    "X": {
+      "item": "tfchammer:metal/sledgehammer_head/tungsten_steel"
+    },
+    "G": {
+      "tag": "c:glue"
+    },
+    "H": {
+      "tag": "c:handle/long"
+    },
+    "R": {
+      "tag": "c:rings/tungsten_steel"
+    },
+    "L": {
+      "tag": "c:leather/string"
+    }
+  },
+  "result": {
+    "stack": {
+      "id": "tfchammer:metal/sledgehammer/tungsten_steel",
+      "count": 1
+    },
+    "modifiers": [
+      {
+        "type": "tfc:copy_forging_bonus"
+      }
+    ]
+  }
+}

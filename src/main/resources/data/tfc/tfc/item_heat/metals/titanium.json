@@ -1,0 +1,25 @@
+{
+  "ingredient": [
+    {
+      "item": "tfchammer:metal/excavator/titanium"
+    },
+    {
+      "item": "tfchammer:metal/sledgehammer/titanium"
+    },
+    {
+      "item": "tfchammer:metal/excavator_head/titanium"
+    },
+    {
+      "item": "tfchammer:metal/sledgehammer_head/titanium"
+    }
+  ],
+  "heat_capacity": 6.666,
+  "forging_temperature": 921,
+  "welding_temperature": 1228,
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tfcm"
+    }
+  ]
+}

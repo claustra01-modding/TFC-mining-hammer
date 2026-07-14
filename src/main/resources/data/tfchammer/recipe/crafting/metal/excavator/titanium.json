@@ -1,0 +1,43 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tfcm"
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "tfc_metal_tools"
+      }
+    }
+  ],
+  "type": "tfc:advanced_shaped_crafting",
+  "pattern": [
+    "  X",
+    " Y ",
+    "Z  "
+  ],
+  "key": {
+    "X": {
+      "item": "tfchammer:metal/excavator_head/titanium"
+    },
+    "Y": {
+      "item": "tfcm:metal/rod/titanium"
+    },
+    "Z": {
+      "tag": "c:rods/wooden"
+    }
+  },
+  "result": {
+    "stack": {
+      "id": "tfchammer:metal/excavator/titanium",
+      "count": 1
+    },
+    "modifiers": [
+      {
+        "type": "tfc:copy_forging_bonus"
+      }
+    ]
+  }
+}

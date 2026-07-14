@@ -9,6 +9,18 @@
     "tfchammer:metal/sledgehammer/steel",
     "tfchammer:metal/sledgehammer/black_steel",
     "tfchammer:metal/sledgehammer/blue_steel",
-    "tfchammer:metal/sledgehammer/red_steel"
+    "tfchammer:metal/sledgehammer/red_steel",
+    {
+      "id": "tfchammer:metal/sledgehammer/invar",
+      "required": false
+    },
+    {
+      "id": "tfchammer:metal/sledgehammer/titanium",
+      "required": false
+    },
+    {
+      "id": "tfchammer:metal/sledgehammer/tungsten_steel",
+      "required": false
+    }
   ]
 }

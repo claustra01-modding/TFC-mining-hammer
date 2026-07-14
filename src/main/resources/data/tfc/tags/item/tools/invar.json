@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "tfchammer:metal/sledgehammer/invar",
+    "tfchammer:metal/excavator/invar"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "tfchammer:metal/sledgehammer/titanium",
+    "tfchammer:metal/excavator/titanium"
+  ]
+}

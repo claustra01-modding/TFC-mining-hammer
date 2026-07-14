@@ -13,6 +13,10 @@ public final class ModCreativeModeTab {
             ModItems.SLEDGEHAMMER_HEADS.values().forEach(event::accept);
             ModItems.EXCAVATORS.values().forEach(event::accept);
             ModItems.EXCAVATOR_HEADS.values().forEach(event::accept);
+            ModItems.TFCM_SLEDGEHAMMERS.values().forEach(event::accept);
+            ModItems.TFCM_SLEDGEHAMMER_HEADS.values().forEach(event::accept);
+            ModItems.TFCM_EXCAVATORS.values().forEach(event::accept);
+            ModItems.TFCM_EXCAVATOR_HEADS.values().forEach(event::accept);
         }
 
         if (event.getTabKey() == TFCCreativeTabs.MISC.tab().getKey()) {

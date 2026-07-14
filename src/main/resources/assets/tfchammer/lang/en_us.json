@@ -8,6 +8,9 @@
   "item.tfchammer.metal.sledgehammer.black_steel": "Black Steel Sledgehammer",
   "item.tfchammer.metal.sledgehammer.blue_steel": "Blue Steel Sledgehammer",
   "item.tfchammer.metal.sledgehammer.red_steel": "Red Steel Sledgehammer",
+  "item.tfchammer.metal.sledgehammer.invar": "Invar Sledgehammer",
+  "item.tfchammer.metal.sledgehammer.titanium": "Titanium Sledgehammer",
+  "item.tfchammer.metal.sledgehammer.tungsten_steel": "Tungsten Steel Sledgehammer",
 
   "item.tfchammer.metal.excavator.copper": "Copper Excavator",
   "item.tfchammer.metal.excavator.bronze": "Bronze Excavator",
@@ -18,6 +21,9 @@
   "item.tfchammer.metal.excavator.black_steel": "Black Steel Excavator",
   "item.tfchammer.metal.excavator.blue_steel": "Blue Steel Excavator",
   "item.tfchammer.metal.excavator.red_steel": "Red Steel Excavator",
+  "item.tfchammer.metal.excavator.invar": "Invar Excavator",
+  "item.tfchammer.metal.excavator.titanium": "Titanium Excavator",
+  "item.tfchammer.metal.excavator.tungsten_steel": "Tungsten Steel Excavator",
 
   "item.tfchammer.metal.excavator_head.copper": "Copper Excavator Head",
   "item.tfchammer.metal.excavator_head.bronze": "Bronze Excavator Head",
@@ -28,6 +34,9 @@
   "item.tfchammer.metal.excavator_head.black_steel": "Black Steel Excavator Head",
   "item.tfchammer.metal.excavator_head.blue_steel": "Blue Steel Excavator Head",
   "item.tfchammer.metal.excavator_head.red_steel": "Red Steel Excavator Head",
+  "item.tfchammer.metal.excavator_head.invar": "Invar Excavator Head",
+  "item.tfchammer.metal.excavator_head.titanium": "Titanium Excavator Head",
+  "item.tfchammer.metal.excavator_head.tungsten_steel": "Tungsten Steel Excavator Head",
 
   "item.tfchammer.metal.sledgehammer_head.copper": "Copper Sledgehammer Head",
   "item.tfchammer.metal.sledgehammer_head.bronze": "Bronze Sledgehammer Head",
@@ -38,6 +47,9 @@
   "item.tfchammer.metal.sledgehammer_head.black_steel": "Black Steel Sledgehammer Head",
   "item.tfchammer.metal.sledgehammer_head.blue_steel": "Blue Steel Sledgehammer Head",
   "item.tfchammer.metal.sledgehammer_head.red_steel": "Red Steel Sledgehammer Head",
+  "item.tfchammer.metal.sledgehammer_head.invar": "Invar Sledgehammer Head",
+  "item.tfchammer.metal.sledgehammer_head.titanium": "Titanium Sledgehammer Head",
+  "item.tfchammer.metal.sledgehammer_head.tungsten_steel": "Tungsten Steel Sledgehammer Head",
 
   "item.tfchammer.ceramic.excavator_head_mold": "Excavator Head Mold",
   "item.tfchammer.ceramic.sledgehammer_head_mold": "Sledgehammer Head Mold",

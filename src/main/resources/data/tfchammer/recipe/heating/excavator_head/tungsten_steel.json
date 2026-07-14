@@ -1,0 +1,18 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfchammer:metal/excavator_head/tungsten_steel"
+  },
+  "result_fluid": {
+    "amount": 200,
+    "id": "tfc:metal/tungsten_steel"
+  },
+  "temperature": 1535,
+  "use_durability": true,
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tfcm"
+    }
+  ]
+}

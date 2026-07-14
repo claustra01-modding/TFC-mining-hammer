@@ -1,0 +1,23 @@
+{
+  "type": "tfc:anvil",
+  "result": {
+    "id": "tfchammer:metal/sledgehammer_head/invar",
+    "count": 1
+  },
+  "tier": 3,
+  "rules": [
+    "punch_last",
+    "upset_second_last",
+    "upset_third_last"
+  ],
+  "ingredient": {
+    "tag": "c:double_ingots/invar"
+  },
+  "apply_bonus": true,
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tfcm"
+    }
+  ]
+}
