@@ -90,7 +90,8 @@ public final class ModItems {
         return Map.of(
                 "invar", registerTfcmItem(type, "invar", Rarity.COMMON, tool, excavator),
                 "titanium", registerTfcmItem(type, "titanium", Rarity.UNCOMMON, tool, excavator),
-                "tungsten_steel", registerTfcmItem(type, "tungsten_steel", Rarity.EPIC, tool, excavator)
+                "tungsten_steel", registerTfcmItem(type, "tungsten_steel", Rarity.EPIC, tool, excavator),
+                "netherite", registerTfcmItem(type, "netherite", Rarity.RARE, tool, excavator)
         );
     }
 

@@ -1,0 +1,23 @@
+{
+  "type": "tfc:anvil",
+  "result": {
+    "id": "tfchammer:metal/excavator_head/netherite",
+    "count": 1
+  },
+  "tier": 5,
+  "rules": [
+    "bend_last",
+    "upset_second_last",
+    "draw_third_last"
+  ],
+  "ingredient": {
+    "tag": "c:sheets/netherite"
+  },
+  "apply_bonus": true,
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tfcm"
+    }
+  ]
+}

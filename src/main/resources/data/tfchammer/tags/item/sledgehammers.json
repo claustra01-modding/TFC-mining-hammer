@@ -21,6 +21,10 @@
     {
       "id": "tfchammer:metal/sledgehammer/tungsten_steel",
       "required": false
+    },
+    {
+      "id": "tfchammer:metal/sledgehammer/netherite",
+      "required": false
     }
   ]
 }

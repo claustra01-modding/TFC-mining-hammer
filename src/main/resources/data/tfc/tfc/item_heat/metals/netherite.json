@@ -1,0 +1,25 @@
+{
+  "ingredient": [
+    {
+      "item": "tfchammer:metal/excavator/netherite"
+    },
+    {
+      "item": "tfchammer:metal/sledgehammer/netherite"
+    },
+    {
+      "item": "tfchammer:metal/excavator_head/netherite"
+    },
+    {
+      "item": "tfchammer:metal/sledgehammer_head/netherite"
+    }
+  ],
+  "heat_capacity": 5,
+  "forging_temperature": 921,
+  "welding_temperature": 1228,
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tfcm"
+    }
+  ]
+}

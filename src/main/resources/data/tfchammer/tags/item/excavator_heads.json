@@ -21,6 +21,10 @@
     {
       "id": "tfchammer:metal/excavator_head/tungsten_steel",
       "required": false
+    },
+    {
+      "id": "tfchammer:metal/excavator_head/netherite",
+      "required": false
     }
   ]
 }

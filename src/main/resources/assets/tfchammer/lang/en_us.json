@@ -11,6 +11,7 @@
   "item.tfchammer.metal.sledgehammer.invar": "Invar Sledgehammer",
   "item.tfchammer.metal.sledgehammer.titanium": "Titanium Sledgehammer",
   "item.tfchammer.metal.sledgehammer.tungsten_steel": "Tungsten Steel Sledgehammer",
+  "item.tfchammer.metal.sledgehammer.netherite": "Netherite Sledgehammer",
 
   "item.tfchammer.metal.excavator.copper": "Copper Excavator",
   "item.tfchammer.metal.excavator.bronze": "Bronze Excavator",
@@ -24,6 +25,7 @@
   "item.tfchammer.metal.excavator.invar": "Invar Excavator",
   "item.tfchammer.metal.excavator.titanium": "Titanium Excavator",
   "item.tfchammer.metal.excavator.tungsten_steel": "Tungsten Steel Excavator",
+  "item.tfchammer.metal.excavator.netherite": "Netherite Excavator",
 
   "item.tfchammer.metal.excavator_head.copper": "Copper Excavator Head",
   "item.tfchammer.metal.excavator_head.bronze": "Bronze Excavator Head",
@@ -37,6 +39,7 @@
   "item.tfchammer.metal.excavator_head.invar": "Invar Excavator Head",
   "item.tfchammer.metal.excavator_head.titanium": "Titanium Excavator Head",
   "item.tfchammer.metal.excavator_head.tungsten_steel": "Tungsten Steel Excavator Head",
+  "item.tfchammer.metal.excavator_head.netherite": "Netherite Excavator Head",
 
   "item.tfchammer.metal.sledgehammer_head.copper": "Copper Sledgehammer Head",
   "item.tfchammer.metal.sledgehammer_head.bronze": "Bronze Sledgehammer Head",
@@ -50,6 +53,7 @@
   "item.tfchammer.metal.sledgehammer_head.invar": "Invar Sledgehammer Head",
   "item.tfchammer.metal.sledgehammer_head.titanium": "Titanium Sledgehammer Head",
   "item.tfchammer.metal.sledgehammer_head.tungsten_steel": "Tungsten Steel Sledgehammer Head",
+  "item.tfchammer.metal.sledgehammer_head.netherite": "Netherite Sledgehammer Head",
 
   "item.tfchammer.ceramic.excavator_head_mold": "Excavator Head Mold",
   "item.tfchammer.ceramic.sledgehammer_head_mold": "Sledgehammer Head Mold",
