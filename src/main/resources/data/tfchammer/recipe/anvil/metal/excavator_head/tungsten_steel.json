@@ -4,7 +4,7 @@
     "id": "tfchammer:metal/excavator_head/tungsten_steel",
     "count": 1
   },
-  "tier": 6,
+  "tier": 7,
   "rules": [
     "bend_last",
     "upset_second_last",
